@@ -1,1 +1,1 @@
-export const dbURL = "http://localhost:3500/posts"  
+export const dbURL = "https://single-page-react-app-using-redux-1.onrender.com/posts"  
