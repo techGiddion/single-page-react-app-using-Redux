@@ -1,0 +1,1 @@
+export const dbURL = "http://localhost:3500/posts"  
